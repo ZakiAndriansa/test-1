@@ -10,4 +10,4 @@ if (!$conn) {
     die("Koneksi Gagal: " . mysqli_connect_error());
 }
 ?> 
-<!-- Hai -Zaki Andriansa -->
+<!-- Hai -Zaki A -->
